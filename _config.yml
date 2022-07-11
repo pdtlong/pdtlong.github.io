@@ -1,10 +1,10 @@
 title: Long Pham # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm pursuing a master's degree in computer science at Ton Duc Thang University.
-  <br><br>
-  Besides, I also do some freelance projects on artificial intelligence and used to be a member of the NLP & KD lab at the university. 
-  <br><br>
+  
+  <br>I'm pursuing a master's degree in computer science at Ton Duc Thang University.<br>
+  
+  <br>Besides, I also do some freelance projects on artificial intelligence and used to be a member of the NLP & KD lab at the university. <br>
   <a href="https://www.linkedin.com/in/longpham-ai/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
