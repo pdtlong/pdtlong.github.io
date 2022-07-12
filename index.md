@@ -114,7 +114,7 @@ This is my implementation of an adaptive focusing technique applied in real-time
 ---
 ## Machine Learning
 ## [ML] Building a Classification Model that predicts the shopping behavior of online shoppers
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Predict-the-shopping-behavior-of-online-shoppers)
 **This is a model built to predict buying decisions of online shoppers** which purpose is to help identify a customer who does not purchase but still participates in the wrong shopping to offer the right ads for them and to analyze the buying behavior of the vast majority of users. 
 
 **The process includes:**
