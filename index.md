@@ -136,4 +136,5 @@ This is my implementation of an adaptive focusing technique applied in real-time
 
 The project was once proposed by some teachers in the faculty to the school to ask for a sum of money to actualize the robot into a physical version. But technically, assembling the machine was difficult, so this project was temporarily shelved.
 
-https://user-images.githubusercontent.com/55480300/178575965-b4d72ee8-bd24-4299-b806-75a2195afdff.mp4
+![origin](https://user-images.githubusercontent.com/55480300/178584233-da2b11f6-4d52-41ff-b038-de736c36a670.gif)
+
