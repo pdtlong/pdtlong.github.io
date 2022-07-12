@@ -1,19 +1,19 @@
 title: <p align="center"> Long Phạm </p>
 
-logo: "/images/logo.png?raw=true"
+logo: "/images/picture.png?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf"> My CV</a> |
+  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/longpham-ai/">LinkedIn</a> |
   <a href="https://github.com/pdtlong">GitHub</a>
   </p>
   
   <p align="justify">
-   
-  <br>I'm pursuing a master's degree in computer science at Ton Duc Thang University <br>
- 
-  <br>Currently, I also do some freelance projects on artificial intelligence and used to be a member of the NLP & KD lab at the university<br>
+  I'm pursuing a master's degree in computer science at Ton Duc Thang University
+  <br><br>
+  Currently, I also do some freelance projects on artificial intelligence and used to be a member of the NLP & KD lab at the university
+  <br><br>
   </p>
   
 theme: jekyll-theme-minimal
