@@ -133,6 +133,7 @@ This is my implementation of an adaptive focusing technique applied in real-time
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Smart-Robot-Vacuum-Cleaner-Using-JAVA/)
 
 **This is my first project in the field of AI with a close friend**
+
 The project was once proposed by some teachers in the faculty to the school to ask for a sum of money to actualize the robot into a physical version. But technically, assembling the machine was difficult, so this project was temporarily shelved.
 
 https://user-images.githubusercontent.com/55480300/178575965-b4d72ee8-bd24-4299-b806-75a2195afdff.mp4
