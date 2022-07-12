@@ -75,10 +75,21 @@ Within the scope of this project, I do it on *crawled data from Vietnamese news 
 <center><img src="images/VLM.gif" width="550"/></center>
 
 ---
-## Digital Image Processing & Computer Vision
-### [CV] Building an OCR to Extract Info from Identity Cards
+## Computer Vision & Digital Image Processing
+### [CV & DIP] Building an OCR to Extract Info from Identity Cards
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/English-PosTag-Prediction-Using-VIterbi)
-<center><img src="images/viterbi1.png" width="500"/></center>
+
+This is an integrated system of **advanced image processing methods in image preprocessing** and the application of ** Tesseract (Open Source OCR Engine)**.
+Gives about *90-92% accuracy manually evaluated on 300 images*
+
+**The current model has the following functions:**
+- Adjust the size and drag the 4 sides perpendicularly even when taking photos at an angle (no more than 45 degrees)
+- Self-recognize both sides of an ID card (new and old model)
+- Crop the part of the photo containing the information (text) on the identity card
+- Extract identifiable information into text
+
+<center><img src="images/ocr.gif" width="550"/></center>
 
 ---
 ### [DIP] Adaptive Thresholding using the Integral Image
