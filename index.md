@@ -3,11 +3,18 @@
 ## Natural Language Processing
 ### [NLP] Building a Part of Speech Tagger (POS) Using Viterbi
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/English-PosTag-Prediction-Using-VIterbi)
-<center><img src="images/viterbi1.png" width="500"/></center>
 
-A project at university on building a part of speech tagging model using Hidden Makov model with viterbi algorithm, Achieved over 95% accuracy.
+**This is my completed project about POS Tagging** __*Achieved over 95% accuracy*__
+
+**Part-of-Speech** (POS) *(noun, verb, and preposition)* can help in understanding the meaning of a text by identifying how different words are used in a sentence. POS can reveal a lot of information about neighbouring words and syntactic structure of a sentence.
+
+**The Hidden Markov Models (HMM)** is a statistical model for modelling generative sequences characterized by an underlying process generating an observable sequence.
+
+*POS tagging using Hidden Markov Models (HMMs)* which are *probabilistic sequence models*.
 
 
+
+<center><img src="images/postag.png" width="550"/></center>
 
 ---
 ### [NLP] Building a Transition Based Dependency Parsing
