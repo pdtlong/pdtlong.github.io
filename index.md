@@ -18,9 +18,13 @@
 
 ---
 ### [NLP] Building a Transition Based Dependency Parsing
+**Transition-based dependency parsing**: is a fast and effective approach for dependency parsing. Traditionally, a transitionbased dependency parser processes an input sentence and predicts a sequence of parsing actions in a left-to-right manner.
+
+Successfully built a complete model with detailed running steps. You can refer to the details in the code section, Model currently has 45 Postags, 94084 tokens and total 349 dependency arcs
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Transition-Based-Dependency-Parsing)
 
-<center><img src="images/viterbi1.png" width="500"/></center>
+<center><img src="images/dependency.png" width="550"/></center>
 
 ---
 ### [NLP] Evaluation of the quality of word embedding models for Vietnamese (GloVe, Word2Vec, ELMO, FASTTEXT)
