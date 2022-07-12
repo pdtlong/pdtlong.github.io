@@ -78,9 +78,9 @@ Within the scope of this project, I do it on *crawled data from Vietnamese news 
 ## Computer Vision & Digital Image Processing
 ### [CV & DIP] Building an OCR to Extract Info from Identity Cards
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/English-PosTag-Prediction-Using-VIterbi)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/OCR-Extract-Info-from-Identity-Cards)
 
-This is an integrated system of **advanced image processing methods in image preprocessing** and the application of ** Tesseract (Open Source OCR Engine)**.
+This is an integrated system of **advanced image processing methods in image preprocessing** and the application of **Tesseract (Open Source OCR Engine)**.
 Gives about *90-92% accuracy manually evaluated on 300 images*
 
 **The current model has the following functions:**
@@ -94,7 +94,11 @@ Gives about *90-92% accuracy manually evaluated on 300 images*
 ---
 ### [DIP] Adaptive Thresholding using the Integral Image
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/English-PosTag-Prediction-Using-VIterbi)
-<center><img src="images/viterbi1.png" width="500"/></center>
+This is my implementation of an adaptive focusing technique applied in real-time image processing (streaming). The method suggested in a paper entitled Adaptive [Thresholding using the Integral Image](https://www.researchgate.net/publication/220494200_Adaptive_Thresholding_using_the_Integral_Image) in my master's program.
+
+-This method has solved the problem of the **change in brightness in a photo**. This method uses adaptive thresholding. The key is that each pixel in the image is assigned a different threshold value. There are many methods for getting the upper threshold, but within the scope of the article above, we will mention **using an integral image**.
+
+<center><img src="https://user-images.githubusercontent.com/55480300/178339227-88769cf9-90f8-4eca-85ef-9aaa3d78a841.png" width="550"/></center>
 
 
 
