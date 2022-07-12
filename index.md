@@ -12,10 +12,9 @@
 
 *POS tagging using Hidden Markov Models (HMMs)* which are *probabilistic sequence models*.
 
-
-
-<center><img src="images/postag.png" width="550"/></center>
-
+<p align="center">
+  <img src="images/postag.png" width="550"/>
+</p>
 ---
 ### [NLP] Building a Transition Based Dependency Parsing
 
@@ -25,7 +24,9 @@
 
 Successfully built a complete model with detailed running steps. You can refer to the details in the code section, Model currently has 45 Postags, 94084 tokens and total 349 dependency arcs
 
-<center><img src="images/dependency.png" width="550"/></center>
+<p align="center">
+  <img src="images/dependency.png" width="550"/>
+</p>
 
 ---
 
@@ -43,11 +44,14 @@ To ensure fairness for the evaluation process. The model will be passed 2 criter
 
 In addition, the evaluation process also takes place on **4 different models:**
 
-<center><img src="images/wordembedding_comparison.png" width="550"/></center>
-
+<p align="center">
+  <img src="images/wordembedding_comparison.png" width="550"/>
+</p>
 *The chart describes in detail the accuracy measured on the test set of the embedding sets on each classification model*
 
-<center><img src="https://user-images.githubusercontent.com/55480300/178413854-49f5b2e9-371f-455d-8671-1e299b9c0479.png" width="550"/></center>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55480300/178413854-49f5b2e9-371f-455d-8671-1e299b9c0479.png" width="550"/>
+</p>
 
 *Example Graph of loss function of word-embedding models compared from 1st model MLPs (custom)*
 
@@ -60,8 +64,9 @@ In addition, the evaluation process also takes place on **4 different models:**
 
 Within the scope of this project, I do it on *crawled data from Vietnamese news stories and label them as empty news* (the news has been summarized by the station).
 
-<center><img src="images/Text-Summarization-Abstractive.png" width="550"/></center>
-
+<p align="center">
+  <img src="images/Text-Summarization-Abstractive.png" width="550"/>
+</p>
 
 ---
 
@@ -72,7 +77,9 @@ Within the scope of this project, I do it on *crawled data from Vietnamese news 
 
 *This is a model built for the purpose of understanding the structure of the language model. So will not focus on accuracy (because the dataset is small under 10k words)**
 
-<center><img src="images/VLM.gif" width="550"/></center>
+<p align="center">
+  <<img src="images/VLM.gif" width="550"/>
+</p>
 
 ---
 ## Computer Vision & Digital Image Processing
@@ -89,7 +96,9 @@ Gives about *90-92% accuracy manually evaluated on 300 images*
 - Crop the part of the photo containing the information (text) on the identity card
 - Extract identifiable information into text
 
-<center><img src="images/ocr.gif" width="550"/></center>
+<p align="center">
+  <img src="images/ocr.gif" width="550"/>
+</p>
 
 ---
 ### [DIP] Adaptive Thresholding using the Integral Image
@@ -98,7 +107,21 @@ This is my implementation of an adaptive focusing technique applied in real-time
 
 -This method has solved the problem of the **change in brightness in a photo**. This method uses adaptive thresholding. The key is that each pixel in the image is assigned a different threshold value. There are many methods for getting the upper threshold, but within the scope of the article above, we will mention **using an integral image**.
 
-<center><img src="https://user-images.githubusercontent.com/55480300/178339227-88769cf9-90f8-4eca-85ef-9aaa3d78a841.png" width="550"/></center>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55480300/178339227-88769cf9-90f8-4eca-85ef-9aaa3d78a841.png" width="550"/>
+</p>
 
+---
+## Machine Learning
+## [ML] Building a Classification Model that predicts the shopping behavior of online shoppers
 
+**This is a model built to predict buying decisions of online shoppers** which purpose is to help identify a customer who does not purchase but still participates in the wrong shopping to offer the right ads for them and to analyze the buying behavior of the vast majority of users. 
+
+**The process includes:**
+- Data preprocessing _(numerical data, categorical data)_
+- Select data features according to Mrmr . method
+- The model is used 3 classification methods: _MLP, Decision Tree C4.5 and random forest_
+<p align="center">
+  <img src="images/purchse_requistn.jpg" width="550"/>                                                           
+</p>
 
