@@ -53,7 +53,14 @@ In addition, the evaluation process also takes place on **4 different models:**
 
 ---
 ### [NLP] Deep Text Abtractive Summarization of Vietnamese news using GAN
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Text-Abtractive-Summarization-Using-GAN)
+
+**Abstractive Text Summarization**: is the task of generating a short and concise summary that captures the salient ideas of the source text. The generated summaries potentially contain new phrases and sentences that may not appear in the source text
+
+Within the scope of this project, I do it on *crawled data from Vietnamese news stories and label them as empty news* (the news has been summarized by the station).
+
+<center><img src="images/Text-Summarization-Abstractive.png" width="550"/></center>
 
 
 ---
