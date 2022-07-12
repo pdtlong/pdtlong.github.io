@@ -64,9 +64,15 @@ Within the scope of this project, I do it on *crawled data from Vietnamese news 
 
 
 ---
-### [NLP] Building a Vietnamese Language model with Tensorflow (keras)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Text-Abtractive-Summarization-Using-GAN)
 
+### [NLP] Building a Vietnamese Language model with Tensorflow (keras)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Vietnamese-Languages-model_keras)
+
+**A Vietnamese language model**: is a probabilistic statistical model that determines the probability of a given sequence of words occurring in a sentence based on the previous words. It helps to predict which word is more likely to appear next in the sentence.
+
+*This is a model built for the purpose of understanding the structure of the language model. So will not focus on accuracy (because the dataset is small under 10k words)**
+
+<center><img src="images/VLM.gif" width="550"/></center>
 
 ---
 ## Digital Image Processing & Computer Vision
