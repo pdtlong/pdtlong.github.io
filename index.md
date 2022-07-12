@@ -10,7 +10,7 @@
 
 **The Hidden Markov Models (HMM)** is a statistical model for modelling generative sequences characterized by an underlying process generating an observable sequence.
 
-*POS tagging using Hidden Markov Models (HMMs)* which are *probabilistic sequence models*.
+*POS tagging Models * which are *probabilistic sequence models*.
 
 <p align="center">
   <img src="images/postag.png" width="550"/>
