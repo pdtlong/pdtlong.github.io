@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ## Natural Language Processing
-### [NLP] Building a Part of Speech Tagger (POS) Using Viterbi
+### [NLP] Building Part of Speech (POS) tagger with Hidden Markov Model using Viterbi  algorithm
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/English-PosTag-Prediction-Using-VIterbi)
 
 **This is my completed project about POS Tagging** __*Achieved over 95% accuracy*__
@@ -15,7 +15,9 @@
 <p align="center">
   <img src="images/postag.png" width="550"/>
 </p>
+
 ---
+
 ### [NLP] Building a Transition Based Dependency Parsing
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Transition-Based-Dependency-Parsing)
@@ -113,7 +115,7 @@ This is my implementation of an adaptive focusing technique applied in real-time
 
 ---
 ## Machine Learning
-## [ML] Building a Classification Model that predicts the shopping behavior of online shoppers
+### [ML] Building a Classification Model that predicts the shopping behavior of online shoppers
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Predict-the-shopping-behavior-of-online-shoppers)
 **This is a model built to predict buying decisions of online shoppers** which purpose is to help identify a customer who does not purchase but still participates in the wrong shopping to offer the right ads for them and to analyze the buying behavior of the vast majority of users. 
 
