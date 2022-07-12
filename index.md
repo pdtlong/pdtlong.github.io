@@ -18,17 +18,38 @@
 
 ---
 ### [NLP] Building a Transition Based Dependency Parsing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Transition-Based-Dependency-Parsing)
+
 **Transition-based dependency parsing**: is a fast and effective approach for dependency parsing. Traditionally, a transitionbased dependency parser processes an input sentence and predicts a sequence of parsing actions in a left-to-right manner.
 
 Successfully built a complete model with detailed running steps. You can refer to the details in the code section, Model currently has 45 Postags, 94084 tokens and total 349 dependency arcs
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Transition-Based-Dependency-Parsing)
-
 <center><img src="images/dependency.png" width="550"/></center>
 
 ---
+
 ### [NLP] Evaluation of the quality of word embedding models for Vietnamese (GloVe, Word2Vec, ELMO, FASTTEXT)
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Word-Embedding-Models-for-Vietnamese-GloVe-Word2Vec-ELMO-FASTEXT)
+
+**This is a research project that got a highest score in my and a friend's natural language processing course on evaluating the quality of Word embeddings models for Vietnamese.**
+
+The main task focuses on **evaluating the quality of Words Embedding models** Including: **GloVe, Word2Vec, ELMO, FASTTEXT**
+
+To ensure fairness for the evaluation process. The model will be passed 2 criteria: 
+- **Accuracy scores**
+- **Convergence speed when training through loss**
+
+In addition, the evaluation process also takes place on **4 different models:**
+
+<center><img src="images/wordembedding_comparison.png" width="550"/></center>
+
+*The chart describes in detail the accuracy measured on the test set of the embedding sets on each classification model*
+
+<center><img src="https://user-images.githubusercontent.com/55480300/178413854-49f5b2e9-371f-455d-8671-1e299b9c0479.png" width="550"/></center>
+
+*Example Graph of loss function of word-embedding models compared from 1st model MLPs (custom)*
 
 ---
 ### [NLP] Deep Text Abtractive Summarization of Vietnamese news using GAN
