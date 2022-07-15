@@ -138,3 +138,36 @@ The project was once proposed by some teachers in the faculty to the school to a
 
 ![origin](https://user-images.githubusercontent.com/55480300/178584233-da2b11f6-4d52-41ff-b038-de736c36a670.gif)
 
+--- 
+## Database Design
+### [SQL] Designing and Building a Flight and Passenger Management Database
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Passenger_management-My-SQL)
+
+**This is my first project on database construction and design**
+
+**This includes 56 requirements, from Beginer to Advanced (in Vietnamese):**
+- Build Database based on the described description
+- Create Index for some tables
+- Create STORE PROCEDURE, FUNCTION, TRIGGER
+- Create Query from basic -> advanced
+- Add, Delete, update tables in database
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55480300/179279586-32764553-9bf1-4ba4-9ba8-d28b9aad19b0.png" width="550"/>                                       
+</p>
+
+---
+### [SQL & ERD] Designing and Building a Hotel Management Database
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pdtlong/Hotel-Management-System)
+
+**This is a group project on building a hotel management software and my tasks are:**
+- Writing System Requirements Specifications
+- Designing use case diagrams
+- Sequence diagram design
+- Database system design
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55480300/179281220-d724e914-5de7-4b96-98f1-cefc2228c688.png" width="550"/>                                       
+</p>
+
+
